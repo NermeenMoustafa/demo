@@ -1,14 +1,55 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "users": [
+    {
+      "id": "1",
+      "path": "require('../../imgs/profile3.jpg')",
+      "active": "1"
+    },
+    {
+      "id": "2",
+      "path": "require('../../imgs/profile2.jpg')",
+      "active": "0"
+    },
+    {
+      "id": "3",
+      "path": "require('../../imgs/profile3.jpg')",
+      "active": "1"
+    },
+    {
+      "id": "4",
+      "path": "require('../../imgs/profile2.jpg')",
+      "active": "1"
+    },
+    {
+      "id": "5",
+      "path": "require('../../imgs/profile3.jpg')",
+      "active": "0"
+    },
+    {
+      "id": "6",
+      "path": "require('../../imgs/profile2.jpg')",
+      "active": "1"
+    },
+    {
+      "id": "7",
+      "path": "require('../../imgs/profile2565656.jpg')",
+      "active": "13232323"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "stories": [
+    {
+      "id": "1",
+      "storyPicPath": "require('../../imgs/back13.jpg')",
+      "storyOwnerPath": "require('../../imgs/profile2.jpg')",
+      "firstName": "Nermeen",
+      "lastName": "Moustafa"
+    },
+    {
+      "id": "2",
+      "storyPicPath": "require('../../imgs/profile2.jpg')",
+      "storyOwnerPath": "require('../../imgs/back13.jpg')",
+      "firstName": "Ramy",
+      "lastName": "Moustafa"
+    }
+  ]
 }
