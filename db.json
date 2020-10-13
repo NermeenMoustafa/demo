@@ -1,5 +1,5 @@
 {
-  "users": [
+  "profiles": [
     {
       "id": "1",
       "path": "require('../../imgs/profile3.jpg')",
@@ -29,11 +29,6 @@
       "id": "6",
       "path": "require('../../imgs/profile2.jpg')",
       "active": "1"
-    },
-    {
-      "id": "7",
-      "path": "require('../../imgs/profile2565656.jpg')",
-      "active": "13232323"
     }
   ],
   "stories": [
@@ -50,6 +45,212 @@
       "storyOwnerPath": "require('../../imgs/back13.jpg')",
       "firstName": "Ramy",
       "lastName": "Moustafa"
+    },
+    {
+      "id": "3",
+      "storyPicPath": "require('../../imgs/back13.jpg')",
+      "storyOwnerPath": "require('../../imgs/profile2.jpg')",
+      "firstName": "Hossam",
+      "lastName": "Moustafa"
+    },
+    {
+      "id": "4",
+      "storyPicPath": "require('../../imgs/profile2.jpg')",
+      "storyOwnerPath": "require('../../imgs/back13.jpg')",
+      "firstName": "Amaal",
+      "lastName": "Mohamed"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "postOwnerPath": "require('../../imgs/profile2.jpg')",
+      "postPicPath": "require('../../imgs/back13.jpg')",
+      "name": "Marwan Khaled",
+      "time": "5m",
+      "numOfLikes": "995",
+      "numOfComments": "900"
+    },
+    {
+      "id": "2",
+      "postOwnerPath": "require('../../imgs/back13.jpg')",
+      "postPicPath": "require('../../imgs/profile2.jpg')",
+      "name": "Youssef Mohamed",
+      "time": "2h",
+      "numOfLikes": "885",
+      "numOfComments": "800"
+    },
+    {
+      "id": "3",
+      "postOwnerPath": "require('../../imgs/profile2.jpg')",
+      "postPicPath": "require('../../imgs/back13.jpg')",
+      "name": "Nermeen Moustafa",
+      "time": "3d",
+      "numOfLikes": "775",
+      "numOfComments": "700"
+    }
+  ],
+  "SuggestedPages": [
+    {
+      "id": "1",
+      "pageBackgroundPic": "require('../../imgs/post2.jpg')",
+      "pageProfilePic": "require('../../imgs/post.jpg')",
+      "name": "PentaValue",
+      "field": "Software Company",
+      "numOfLikes": "500"
+    },
+    {
+      "id": "2",
+      "pageBackgroundPic": "require('../../imgs/profile2.jpg')",
+      "pageProfilePic": "require('../../imgs/back13.jpg')",
+      "name": "Valeo",
+      "field": "Software Company",
+      "numOfLikes": "300"
+    },
+    {
+      "id": "3",
+      "pageBackgroundPic": "require('../../imgs/profile3.jpg')",
+      "pageProfilePic": "require('../../imgs/post.jpg')",
+      "name": "PentaValue",
+      "field": "Software Company",
+      "numOfLikes": "200"
+    },
+    {
+      "id": "4",
+      "pageBackgroundPic": "require('../../imgs/post2.jpg')",
+      "pageProfilePic": "require('../../imgs/back13.jpg')",
+      "name": "PentaValue",
+      "field": "Software Company",
+      "numOfLikes": "500"
+    }
+  ],
+  "PostsProfiles": [
+    {
+      "id": "1",
+      "profilePic": "require('../../imgs/profile2.jpg')",
+      "backgroundPic": "require('../../imgs/back13.jpg')",
+      "name": "Marwan Khaled",
+      "work": "PentaValue",
+      "study": "Faculty of Computer and Information Science",
+      "city": "Cairo, Egypt",
+      "maritalStatus": "Married",
+      "mutualFriends": "50",
+      "friendsPics": [
+        "require('../../imgs/back13.jpg')",
+        "require('../../imgs/back13.jpg')",
+        "require('../../imgs/back13.jpg')",
+        "require('../../imgs/back13.jpg')",
+        "require('../../imgs/back13.jpg')",
+        "require('../../imgs/back13.jpg')"
+      ],
+      "friendsNames": [
+        "Nermeen Moustafa",
+        "Youssef Mohamed",
+        "Nermeen Moustafa",
+        "Youssef Mohamed",
+        "Nermeen Moustafa",
+        "Youssef Mohamed"
+      ]
+    },
+    {
+      "id": "2",
+      "profilePic": "require('../../imgs/back13.jpg')",
+      "backgroundPic": "require('../../imgs/profile2.jpg')",
+      "name": "Youssef Mohamed",
+      "work": "Valeo",
+      "study": "Faculty of Computer and Information Science",
+      "city": "Cairo, Egypt",
+      "maritalStatus": "Single",
+      "mutualFriends": "60",
+      "friendsPics": [
+        "require('../../imgs/back13.jpg')",
+        "require('../../imgs/back13.jpg')",
+        "require('../../imgs/back13.jpg')",
+        "require('../../imgs/back13.jpg')",
+        "require('../../imgs/back13.jpg')",
+        "require('../../imgs/back13.jpg')"
+      ],
+      "friendsNames": [
+        "Nermeen Moustafa",
+        "Youssef Mohamed",
+        "Nermeen Moustafa",
+        "Youssef Mohamed",
+        "Nermeen Moustafa",
+        "Youssef Mohamed"
+      ]
+    },
+    {
+      "id": "3",
+      "profilePic": "require('../../imgs/profile2.jpg')",
+      "backgroundPic": "require('../../imgs/back13.jpg')",
+      "name": "Nermeen Moustafa",
+      "work": "ITI",
+      "study": "Faculty of Arts",
+      "city": "Cairo, Egypt",
+      "maritalStatus": "single",
+      "mutualFriends": "70",
+      "friendsPics": [
+        "require('../../imgs/back13.jpg')",
+        "require('../../imgs/back13.jpg')",
+        "require('../../imgs/back13.jpg')",
+        "require('../../imgs/back13.jpg')",
+        "require('../../imgs/back13.jpg')",
+        "require('../../imgs/back13.jpg')"
+      ],
+      "friendsNames": [
+        "Nermeen Moustafa",
+        "Youssef Mohamed",
+        "Nermeen Moustafa",
+        "Youssef Mohamed",
+        "Nermeen Moustafa",
+        "Youssef Mohamed"
+      ]
+    }
+  ],
+  "NewNoti": [
+    {
+      "id": "1",
+      "profilePic": "require('../../imgs/profile2.jpg')",
+      "name": "Marwan Khaled",
+      "time": "5 minutes ago",
+      "seen": "0"
+    },
+    {
+      "id": "2",
+      "profilePic": "require('../../imgs/back13.jpg')",
+      "name": "Khaled Marawan",
+      "time": "4 hours ago",
+      "seen": "0"
+    },
+    {
+      "id": "3",
+      "profilePic": "require('../../imgs/profile2.jpg')",
+      "name": "Marwan Khaled",
+      "time": "3 days ago",
+      "seen": "0"
+    }
+  ],
+  "EarlyNoti": [
+    {
+      "id": "1",
+      "profilePic": "require('../../imgs/profile2.jpg')",
+      "name": "Marwan Khaled",
+      "time": "2 minutes ago",
+      "seen": "0"
+    },
+    {
+      "id": "2",
+      "profilePic": "require('../../imgs/back13.jpg')",
+      "name": "Marwan Khaled",
+      "time": "1 hour ago",
+      "seen": "1"
+    },
+    {
+      "id": "3",
+      "profilePic": "require('../../imgs/profile2.jpg')",
+      "name": "Khaled Marwan",
+      "time": "5 days ago",
+      "seen": "0"
     }
   ]
 }
