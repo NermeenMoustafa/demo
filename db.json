@@ -1,36 +1,4 @@
 {
-  "profiles": [
-    {
-      "id": "1",
-      "path": "require('../../imgs/profile3.jpg')",
-      "active": "1"
-    },
-    {
-      "id": "2",
-      "path": "require('../../imgs/profile2.jpg')",
-      "active": "0"
-    },
-    {
-      "id": "3",
-      "path": "require('../../imgs/profile3.jpg')",
-      "active": "1"
-    },
-    {
-      "id": "4",
-      "path": "require('../../imgs/profile2.jpg')",
-      "active": "1"
-    },
-    {
-      "id": "5",
-      "path": "require('../../imgs/profile3.jpg')",
-      "active": "0"
-    },
-    {
-      "id": "6",
-      "path": "require('../../imgs/profile2.jpg')",
-      "active": "1"
-    }
-  ],
   "stories": [
     {
       "id": "1",
@@ -205,6 +173,50 @@
         "Nermeen Moustafa",
         "Youssef Mohamed"
       ]
+    }
+  ],
+  "NewNoti": [
+    {
+      "id": "1",
+      "profilePic": "require('../../imgs/profile2.jpg')",
+      "name": "Marwan Khaled",
+      "time": "5 minutes ago",
+      "seen": "0"
+    },
+    {
+      "id": "2",
+      "profilePic": "require('../../imgs/back13.jpg')",
+      "name": "Khaled Marawan",
+      "time": "4 hours ago",
+      "seen": "0"
+    },
+    {
+      "id": "3",
+      "profilePic": "require('../../imgs/profile2.jpg')",
+      "name": "Marwan Khaled",
+      "time": "3 days ago",
+      "seen": "0"
+    },
+    {
+      "id": "4",
+      "profilePic": "require('../../imgs/profile2.jpg')",
+      "name": "Marwan Khaled",
+      "time": "2 minutes ago",
+      "seen": "0"
+    },
+    {
+      "id": "5",
+      "profilePic": "require('../../imgs/back13.jpg')",
+      "name": "Marwan Khaled",
+      "time": "1 hour ago",
+      "seen": "1"
+    },
+    {
+      "id": "6",
+      "profilePic": "require('../../imgs/profile2.jpg')",
+      "name": "Khaled Marwan",
+      "time": "5 days ago",
+      "seen": "0"
     }
   ]
 }
