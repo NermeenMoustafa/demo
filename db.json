@@ -206,51 +206,5 @@
         "Youssef Mohamed"
       ]
     }
-  ],
-  "NewNoti": [
-    {
-      "id": "1",
-      "profilePic": "require('../../imgs/profile2.jpg')",
-      "name": "Marwan Khaled",
-      "time": "5 minutes ago",
-      "seen": "0"
-    },
-    {
-      "id": "2",
-      "profilePic": "require('../../imgs/back13.jpg')",
-      "name": "Khaled Marawan",
-      "time": "4 hours ago",
-      "seen": "0"
-    },
-    {
-      "id": "3",
-      "profilePic": "require('../../imgs/profile2.jpg')",
-      "name": "Marwan Khaled",
-      "time": "3 days ago",
-      "seen": "0"
-    }
-  ],
-  "EarlyNoti": [
-    {
-      "id": "1",
-      "profilePic": "require('../../imgs/profile2.jpg')",
-      "name": "Marwan Khaled",
-      "time": "2 minutes ago",
-      "seen": "0"
-    },
-    {
-      "id": "2",
-      "profilePic": "require('../../imgs/back13.jpg')",
-      "name": "Marwan Khaled",
-      "time": "1 hour ago",
-      "seen": "1"
-    },
-    {
-      "id": "3",
-      "profilePic": "require('../../imgs/profile2.jpg')",
-      "name": "Khaled Marwan",
-      "time": "5 days ago",
-      "seen": "0"
-    }
   ]
 }
