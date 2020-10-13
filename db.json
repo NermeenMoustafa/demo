@@ -175,7 +175,7 @@
       ]
     }
   ],
-  "NewNoti": [
+  "Notifications": [
     {
       "id": "1",
       "profilePic": "require('../../imgs/profile2.jpg')",
