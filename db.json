@@ -2,29 +2,29 @@
   "stories": [
     {
       "id": "1",
-      "storyPicPath": "uri:'https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg'",
-      "storyOwnerPath": "uri:'https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg'",
+      "storyPicPath": "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+      "storyOwnerPath": "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
       "firstName": "Nermeen",
       "lastName": "Moustafa"
     },
     {
       "id": "2",
-      "storyPicPath": "uri:'https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg'",
-      "storyOwnerPath": "uri:'https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg'",
+      "storyPicPath": "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+      "storyOwnerPath": "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
       "firstName": "Ramy",
       "lastName": "Moustafa"
     },
     {
       "id": "3",
-      "storyPicPath": "uri:'https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg'",
-      "storyOwnerPath": "uri:'https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg'",
+      "storyPicPath": "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+      "storyOwnerPath": "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
       "firstName": "Hossam",
       "lastName": "Moustafa"
     },
     {
       "id": "4",
-      "storyPicPath": "uri:'https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg'",
-      "storyOwnerPath": "uri:'https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg'",
+      "storyPicPath": "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+      "storyOwnerPath": "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
       "firstName": "Amaal",
       "lastName": "Mohamed"
     }
