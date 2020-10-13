@@ -2,29 +2,29 @@
   "stories": [
     {
       "id": "1",
-      "storyPicPath": "uri:'https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.masegyptdecor.com%2Fdecor%2Fpublic%2Fuploads%2Fthumbs%2F18945222561553266150.jpg&imgrefurl=https%3A%2F%2Fwww.masegyptdecor.com%2Fdecor%2Fen%2Fcategory%2F1&tbnid=fxNbLZ58qioRaM&vet=12ahUKEwj3vfr_rbLsAhUNKhoKHQeXCS8QMygFegUIARDdAQ..i&docid=h9q-lNsC968U4M&w=255&h=260&q=landscape&ved=2ahUKEwj3vfr_rbLsAhUNKhoKHQeXCS8QMygFegUIARDdAQ'",
-      "storyOwnerPath": "uri:'https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.masegyptdecor.com%2Fdecor%2Fpublic%2Fuploads%2Fthumbs%2F18945222561553266150.jpg&imgrefurl=https%3A%2F%2Fwww.masegyptdecor.com%2Fdecor%2Fen%2Fcategory%2F1&tbnid=fxNbLZ58qioRaM&vet=12ahUKEwj3vfr_rbLsAhUNKhoKHQeXCS8QMygFegUIARDdAQ..i&docid=h9q-lNsC968U4M&w=255&h=260&q=landscape&ved=2ahUKEwj3vfr_rbLsAhUNKhoKHQeXCS8QMygFegUIARDdAQ'",
+      "storyPicPath": "{uri:'https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.masegyptdecor.com%2Fdecor%2Fpublic%2Fuploads%2Fthumbs%2F18945222561553266150.jpg&imgrefurl=https%3A%2F%2Fwww.masegyptdecor.com%2Fdecor%2Fen%2Fcategory%2F1&tbnid=fxNbLZ58qioRaM&vet=12ahUKEwj3vfr_rbLsAhUNKhoKHQeXCS8QMygFegUIARDdAQ..i&docid=h9q-lNsC968U4M&w=255&h=260&q=landscape&ved=2ahUKEwj3vfr_rbLsAhUNKhoKHQeXCS8QMygFegUIARDdAQ'}",
+      "storyOwnerPath": "{uri:'https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.masegyptdecor.com%2Fdecor%2Fpublic%2Fuploads%2Fthumbs%2F18945222561553266150.jpg&imgrefurl=https%3A%2F%2Fwww.masegyptdecor.com%2Fdecor%2Fen%2Fcategory%2F1&tbnid=fxNbLZ58qioRaM&vet=12ahUKEwj3vfr_rbLsAhUNKhoKHQeXCS8QMygFegUIARDdAQ..i&docid=h9q-lNsC968U4M&w=255&h=260&q=landscape&ved=2ahUKEwj3vfr_rbLsAhUNKhoKHQeXCS8QMygFegUIARDdAQ'}",
       "firstName": "Nermeen",
       "lastName": "Moustafa"
     },
     {
       "id": "2",
-      "storyPicPath": "uri:'https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.masegyptdecor.com%2Fdecor%2Fpublic%2Fuploads%2Fthumbs%2F18945222561553266150.jpg&imgrefurl=https%3A%2F%2Fwww.masegyptdecor.com%2Fdecor%2Fen%2Fcategory%2F1&tbnid=fxNbLZ58qioRaM&vet=12ahUKEwj3vfr_rbLsAhUNKhoKHQeXCS8QMygFegUIARDdAQ..i&docid=h9q-lNsC968U4M&w=255&h=260&q=landscape&ved=2ahUKEwj3vfr_rbLsAhUNKhoKHQeXCS8QMygFegUIARDdAQ'",
-      "storyOwnerPath": "uri:'https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.masegyptdecor.com%2Fdecor%2Fpublic%2Fuploads%2Fthumbs%2F18945222561553266150.jpg&imgrefurl=https%3A%2F%2Fwww.masegyptdecor.com%2Fdecor%2Fen%2Fcategory%2F1&tbnid=fxNbLZ58qioRaM&vet=12ahUKEwj3vfr_rbLsAhUNKhoKHQeXCS8QMygFegUIARDdAQ..i&docid=h9q-lNsC968U4M&w=255&h=260&q=landscape&ved=2ahUKEwj3vfr_rbLsAhUNKhoKHQeXCS8QMygFegUIARDdAQ",
+      "storyPicPath": "{uri:'https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.masegyptdecor.com%2Fdecor%2Fpublic%2Fuploads%2Fthumbs%2F18945222561553266150.jpg&imgrefurl=https%3A%2F%2Fwww.masegyptdecor.com%2Fdecor%2Fen%2Fcategory%2F1&tbnid=fxNbLZ58qioRaM&vet=12ahUKEwj3vfr_rbLsAhUNKhoKHQeXCS8QMygFegUIARDdAQ..i&docid=h9q-lNsC968U4M&w=255&h=260&q=landscape&ved=2ahUKEwj3vfr_rbLsAhUNKhoKHQeXCS8QMygFegUIARDdAQ'}",
+      "storyOwnerPath": "{uri:'https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.masegyptdecor.com%2Fdecor%2Fpublic%2Fuploads%2Fthumbs%2F18945222561553266150.jpg&imgrefurl=https%3A%2F%2Fwww.masegyptdecor.com%2Fdecor%2Fen%2Fcategory%2F1&tbnid=fxNbLZ58qioRaM&vet=12ahUKEwj3vfr_rbLsAhUNKhoKHQeXCS8QMygFegUIARDdAQ..i&docid=h9q-lNsC968U4M&w=255&h=260&q=landscape&ved=2ahUKEwj3vfr_rbLsAhUNKhoKHQeXCS8QMygFegUIARDdAQ'}",
       "firstName": "Ramy",
       "lastName": "Moustafa"
     },
     {
       "id": "3",
-      "storyPicPath": "uri:'https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.masegyptdecor.com%2Fdecor%2Fpublic%2Fuploads%2Fthumbs%2F18945222561553266150.jpg&imgrefurl=https%3A%2F%2Fwww.masegyptdecor.com%2Fdecor%2Fen%2Fcategory%2F1&tbnid=fxNbLZ58qioRaM&vet=12ahUKEwj3vfr_rbLsAhUNKhoKHQeXCS8QMygFegUIARDdAQ..i&docid=h9q-lNsC968U4M&w=255&h=260&q=landscape&ved=2ahUKEwj3vfr_rbLsAhUNKhoKHQeXCS8QMygFegUIARDdAQ'",
-      "storyOwnerPath": "uri:'https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.masegyptdecor.com%2Fdecor%2Fpublic%2Fuploads%2Fthumbs%2F18945222561553266150.jpg&imgrefurl=https%3A%2F%2Fwww.masegyptdecor.com%2Fdecor%2Fen%2Fcategory%2F1&tbnid=fxNbLZ58qioRaM&vet=12ahUKEwj3vfr_rbLsAhUNKhoKHQeXCS8QMygFegUIARDdAQ..i&docid=h9q-lNsC968U4M&w=255&h=260&q=landscape&ved=2ahUKEwj3vfr_rbLsAhUNKhoKHQeXCS8QMygFegUIARDdAQ'",
+      "storyPicPath": "{uri:'https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.masegyptdecor.com%2Fdecor%2Fpublic%2Fuploads%2Fthumbs%2F18945222561553266150.jpg&imgrefurl=https%3A%2F%2Fwww.masegyptdecor.com%2Fdecor%2Fen%2Fcategory%2F1&tbnid=fxNbLZ58qioRaM&vet=12ahUKEwj3vfr_rbLsAhUNKhoKHQeXCS8QMygFegUIARDdAQ..i&docid=h9q-lNsC968U4M&w=255&h=260&q=landscape&ved=2ahUKEwj3vfr_rbLsAhUNKhoKHQeXCS8QMygFegUIARDdAQ'}",
+      "storyOwnerPath": "{uri:'https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.masegyptdecor.com%2Fdecor%2Fpublic%2Fuploads%2Fthumbs%2F18945222561553266150.jpg&imgrefurl=https%3A%2F%2Fwww.masegyptdecor.com%2Fdecor%2Fen%2Fcategory%2F1&tbnid=fxNbLZ58qioRaM&vet=12ahUKEwj3vfr_rbLsAhUNKhoKHQeXCS8QMygFegUIARDdAQ..i&docid=h9q-lNsC968U4M&w=255&h=260&q=landscape&ved=2ahUKEwj3vfr_rbLsAhUNKhoKHQeXCS8QMygFegUIARDdAQ'}",
       "firstName": "Hossam",
       "lastName": "Moustafa"
     },
     {
       "id": "4",
-      "storyPicPath": "uri:'https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.masegyptdecor.com%2Fdecor%2Fpublic%2Fuploads%2Fthumbs%2F18945222561553266150.jpg&imgrefurl=https%3A%2F%2Fwww.masegyptdecor.com%2Fdecor%2Fen%2Fcategory%2F1&tbnid=fxNbLZ58qioRaM&vet=12ahUKEwj3vfr_rbLsAhUNKhoKHQeXCS8QMygFegUIARDdAQ..i&docid=h9q-lNsC968U4M&w=255&h=260&q=landscape&ved=2ahUKEwj3vfr_rbLsAhUNKhoKHQeXCS8QMygFegUIARDdAQ'",
-      "storyOwnerPath": "uri:'https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.masegyptdecor.com%2Fdecor%2Fpublic%2Fuploads%2Fthumbs%2F18945222561553266150.jpg&imgrefurl=https%3A%2F%2Fwww.masegyptdecor.com%2Fdecor%2Fen%2Fcategory%2F1&tbnid=fxNbLZ58qioRaM&vet=12ahUKEwj3vfr_rbLsAhUNKhoKHQeXCS8QMygFegUIARDdAQ..i&docid=h9q-lNsC968U4M&w=255&h=260&q=landscape&ved=2ahUKEwj3vfr_rbLsAhUNKhoKHQeXCS8QMygFegUIARDdAQ'",
+      "storyPicPath": "{uri:'https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.masegyptdecor.com%2Fdecor%2Fpublic%2Fuploads%2Fthumbs%2F18945222561553266150.jpg&imgrefurl=https%3A%2F%2Fwww.masegyptdecor.com%2Fdecor%2Fen%2Fcategory%2F1&tbnid=fxNbLZ58qioRaM&vet=12ahUKEwj3vfr_rbLsAhUNKhoKHQeXCS8QMygFegUIARDdAQ..i&docid=h9q-lNsC968U4M&w=255&h=260&q=landscape&ved=2ahUKEwj3vfr_rbLsAhUNKhoKHQeXCS8QMygFegUIARDdAQ'}",
+      "storyOwnerPath": "{uri:'https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.masegyptdecor.com%2Fdecor%2Fpublic%2Fuploads%2Fthumbs%2F18945222561553266150.jpg&imgrefurl=https%3A%2F%2Fwww.masegyptdecor.com%2Fdecor%2Fen%2Fcategory%2F1&tbnid=fxNbLZ58qioRaM&vet=12ahUKEwj3vfr_rbLsAhUNKhoKHQeXCS8QMygFegUIARDdAQ..i&docid=h9q-lNsC968U4M&w=255&h=260&q=landscape&ved=2ahUKEwj3vfr_rbLsAhUNKhoKHQeXCS8QMygFegUIARDdAQ'}",
       "firstName": "Amaal",
       "lastName": "Mohamed"
     }
