@@ -61,32 +61,32 @@
   "SuggestedPages": [
     {
       "id": "1",
-      "pageBackgroundPic": "require('../../imgs/post2.jpg')",
-      "pageProfilePic": "require('../../imgs/post.jpg')",
+      "pageBackgroundPic": "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+      "pageProfilePic": "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
       "name": "PentaValue",
       "field": "Software Company",
       "numOfLikes": "500"
     },
     {
       "id": "2",
-      "pageBackgroundPic": "require('../../imgs/profile2.jpg')",
-      "pageProfilePic": "require('../../imgs/back13.jpg')",
+      "pageBackgroundPic": "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+      "pageProfilePic": "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
       "name": "Valeo",
       "field": "Software Company",
       "numOfLikes": "300"
     },
     {
       "id": "3",
-      "pageBackgroundPic": "require('../../imgs/profile3.jpg')",
-      "pageProfilePic": "require('../../imgs/post.jpg')",
+      "pageBackgroundPic": "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+      "pageProfilePic": "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
       "name": "PentaValue",
       "field": "Software Company",
       "numOfLikes": "200"
     },
     {
       "id": "4",
-      "pageBackgroundPic": "require('../../imgs/post2.jpg')",
-      "pageProfilePic": "require('../../imgs/back13.jpg')",
+      "pageBackgroundPic": "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+      "pageProfilePic":  "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
       "name": "PentaValue",
       "field": "Software Company",
       "numOfLikes": "500"
@@ -95,8 +95,8 @@
   "PostsProfiles": [
     {
       "id": "1",
-      "profilePic": "require('../../imgs/profile2.jpg')",
-      "backgroundPic": "require('../../imgs/back13.jpg')",
+      "profilePic":  "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+      "backgroundPic": "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
       "name": "Marwan Khaled",
       "work": "PentaValue",
       "study": "Faculty of Computer and Information Science",
@@ -104,12 +104,12 @@
       "maritalStatus": "Married",
       "mutualFriends": "50",
       "friendsPics": [
-        "require('../../imgs/back13.jpg')",
-        "require('../../imgs/back13.jpg')",
-        "require('../../imgs/back13.jpg')",
-        "require('../../imgs/back13.jpg')",
-        "require('../../imgs/back13.jpg')",
-        "require('../../imgs/back13.jpg')"
+         "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+         "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+         "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+         "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+         "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+         "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
       ],
       "friendsNames": [
         "Nermeen Moustafa",
@@ -122,8 +122,8 @@
     },
     {
       "id": "2",
-      "profilePic": "require('../../imgs/back13.jpg')",
-      "backgroundPic": "require('../../imgs/profile2.jpg')",
+      "profilePic":  "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+      "backgroundPic": "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
       "name": "Youssef Mohamed",
       "work": "Valeo",
       "study": "Faculty of Computer and Information Science",
@@ -131,13 +131,13 @@
       "maritalStatus": "Single",
       "mutualFriends": "60",
       "friendsPics": [
-        "require('../../imgs/back13.jpg')",
-        "require('../../imgs/back13.jpg')",
-        "require('../../imgs/back13.jpg')",
-        "require('../../imgs/back13.jpg')",
-        "require('../../imgs/back13.jpg')",
-        "require('../../imgs/back13.jpg')"
-      ],
+        "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+        "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+        "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+        "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+        "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+        "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+     ],
       "friendsNames": [
         "Nermeen Moustafa",
         "Youssef Mohamed",
@@ -149,8 +149,8 @@
     },
     {
       "id": "3",
-      "profilePic": "require('../../imgs/profile2.jpg')",
-      "backgroundPic": "require('../../imgs/back13.jpg')",
+      "profilePic": "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+      "backgroundPic":  "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
       "name": "Nermeen Moustafa",
       "work": "ITI",
       "study": "Faculty of Arts",
@@ -158,13 +158,13 @@
       "maritalStatus": "single",
       "mutualFriends": "70",
       "friendsPics": [
-        "require('../../imgs/back13.jpg')",
-        "require('../../imgs/back13.jpg')",
-        "require('../../imgs/back13.jpg')",
-        "require('../../imgs/back13.jpg')",
-        "require('../../imgs/back13.jpg')",
-        "require('../../imgs/back13.jpg')"
-      ],
+        "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+        "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+        "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+        "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+        "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+        "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+     ],
       "friendsNames": [
         "Nermeen Moustafa",
         "Youssef Mohamed",
@@ -178,42 +178,42 @@
   "Notifications": [
     {
       "id": "1",
-      "profilePic": "require('../../imgs/profile2.jpg')",
+      "profilePic": "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
       "name": "Marwan Khaled",
       "time": "5 minutes ago",
       "seen": "0"
     },
     {
       "id": "2",
-      "profilePic": "require('../../imgs/back13.jpg')",
+      "profilePic":  "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
       "name": "Khaled Marawan",
       "time": "4 hours ago",
       "seen": "0"
     },
     {
       "id": "3",
-      "profilePic": "require('../../imgs/profile2.jpg')",
+      "profilePic":  "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
       "name": "Marwan Khaled",
       "time": "3 days ago",
       "seen": "0"
     },
     {
       "id": "4",
-      "profilePic": "require('../../imgs/profile2.jpg')",
+      "profilePic": "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
       "name": "Marwan Khaled",
       "time": "2 minutes ago",
       "seen": "0"
     },
     {
       "id": "5",
-      "profilePic": "require('../../imgs/back13.jpg')",
+      "profilePic":  "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
       "name": "Marwan Khaled",
       "time": "1 hour ago",
       "seen": "1"
     },
     {
       "id": "6",
-      "profilePic": "require('../../imgs/profile2.jpg')",
+      "profilePic":  "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
       "name": "Khaled Marwan",
       "time": "5 days ago",
       "seen": "0"
