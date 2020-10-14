@@ -2,21 +2,21 @@
   "stories": [
     {
       "id": "1",
-      "storyPicPath": "https://images.pexels.com/photos/2062882/pexels-photo-2062882.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "storyPicPath": "https://images.pexels.com/photos/3078831/pexels-photo-3078831.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "storyOwnerPath": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2v5uACpefnpKDlQnDUPIxIJMQxTuZbeVYrg&usqp=CAU",
       "firstName": "Nermeen",
       "lastName": "Moustafa"
     },
     {
       "id": "2",
-      "storyPicPath": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEqajxIP7SFiE3rhwlijPGs4GOHn7zpp1gdA&usqp=CAU",
+      "storyPicPath": "https://images.pexels.com/photos/1691924/pexels-photo-1691924.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "storyOwnerPath": "https://images.pexels.com/photos/2062882/pexels-photo-2062882.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "firstName": "Ramy",
       "lastName": "Moustafa"
     },
     {
       "id": "3",
-      "storyPicPath": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRh-JtzjZ3gW-IFhPFTTRTqn86jqN9Mm-wEOQ&usqp=CAU",
+      "storyPicPath": "https://images.pexels.com/photos/5274440/pexels-photo-5274440.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "storyOwnerPath": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfbFzK4vJJzM4PbgpfWZRbQacw_m-jL521yA&usqp=CAU",
       "firstName": "Hossam",
       "lastName": "Moustafa"
@@ -61,19 +61,19 @@
   "SuggestedPages": [
     {
       "id": "1",
-      "pageBackgroundPic": "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
-      "pageProfilePic": "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
-      "name": "PentaValue",
-      "field": "Software Company",
-      "numOfLikes": "500"
-    },
-    {
-      "id": "2",
       "pageBackgroundPic": "https://images.pexels.com/photos/4199723/pexels-photo-4199723.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "pageProfilePic": "https://images.pexels.com/photos/4199723/pexels-photo-4199723.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Valeo",
       "field": "Software Company",
       "numOfLikes": "300"
+    },
+    {
+      "id": "2",
+      "pageBackgroundPic": "https://images.pexels.com/photos/3791007/pexels-photo-3791007.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "pageProfilePic": "https://images.pexels.com/photos/3791007/pexels-photo-3791007.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "name": "PentaValue",
+      "field": "Software Company",
+      "numOfLikes": "500"
     },
     {
       "id": "3",
@@ -82,14 +82,6 @@
       "name": "PentaValue",
       "field": "Software Company",
       "numOfLikes": "200"
-    },
-    {
-      "id": "4",
-      "pageBackgroundPic": "https://images.pexels.com/photos/3791007/pexels-photo-3791007.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "pageProfilePic": "https://images.pexels.com/photos/3791007/pexels-photo-3791007.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "name": "PentaValue",
-      "field": "Software Company",
-      "numOfLikes": "500"
     }
   ],
   "PostsProfiles": [
@@ -114,10 +106,10 @@
       "friendsNames": [
         "Nermeen Moustafa",
         "Youssef Mohamed",
-        "Nermeen Moustafa",
-        "Youssef Mohamed",
-        "Nermeen Moustafa",
-        "Youssef Mohamed"
+        "Maryam Mostafa",
+        "Nada Ahmed",
+        "Ramy Moustafa",
+        "Marwan Khaled"
       ]
     },
     {
@@ -138,14 +130,14 @@
         "https://images.pexels.com/photos/4312101/pexels-photo-4312101.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         "https://images.pexels.com/photos/4180108/pexels-photo-4180108.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
      ],
-      "friendsNames": [
-        "Nermeen Moustafa",
-        "Youssef Mohamed",
-        "Nermeen Moustafa",
-        "Youssef Mohamed",
-        "Nermeen Moustafa",
-        "Youssef Mohamed"
-      ]
+     "friendsNames": [
+      "Nermeen Moustafa",
+      "Youssef Mohamed",
+      "Maryam Mostafa",
+      "Nada Ahmed",
+      "Ramy Moustafa",
+      "Marwan Khaled"
+    ]
     },
     {
       "id": "3",
@@ -168,52 +160,52 @@
       "friendsNames": [
         "Nermeen Moustafa",
         "Youssef Mohamed",
-        "Nermeen Moustafa",
-        "Youssef Mohamed",
-        "Nermeen Moustafa",
-        "Youssef Mohamed"
+        "Maryam Mostafa",
+        "Nada Ahmed",
+        "Ramy Moustafa",
+        "Marwan Khaled"
       ]
     }
   ],
   "Notifications": [
     {
       "id": "1",
-      "profilePic": "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+      "profilePic": "https://images.pexels.com/photos/1529619/pexels-photo-1529619.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Marwan Khaled",
       "time": "5 minutes ago",
       "seen": "0"
     },
     {
       "id": "2",
-      "profilePic":  "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+      "profilePic":  "https://images.pexels.com/photos/2884380/pexels-photo-2884380.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Khaled Marawan",
       "time": "4 hours ago",
       "seen": "0"
     },
     {
       "id": "3",
-      "profilePic":  "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+      "profilePic":  "https://images.pexels.com/photos/3038411/pexels-photo-3038411.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Marwan Khaled",
       "time": "3 days ago",
       "seen": "0"
     },
     {
       "id": "4",
-      "profilePic": "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+      "profilePic": "https://images.pexels.com/photos/3568544/pexels-photo-3568544.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Marwan Khaled",
       "time": "2 minutes ago",
       "seen": "0"
     },
     {
       "id": "5",
-      "profilePic":  "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+      "profilePic":  "https://images.pexels.com/photos/5244426/pexels-photo-5244426.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Marwan Khaled",
       "time": "1 hour ago",
       "seen": "1"
     },
     {
       "id": "6",
-      "profilePic":  "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+      "profilePic":  "https://images.pexels.com/photos/5333816/pexels-photo-5333816.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Khaled Marwan",
       "time": "5 days ago",
       "seen": "0"
