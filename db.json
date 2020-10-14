@@ -32,8 +32,8 @@
   "posts": [
     {
       "id": "1",
-      "postOwnerPath":  "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
-      "postPicPath":  "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+      "postOwnerPath":  "https://images.pexels.com/photos/5490277/pexels-photo-5490277.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "postPicPath":  "https://images.pexels.com/photos/3000552/pexels-photo-3000552.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Marwan Khaled",
       "time": "5m",
       "numOfLikes": "995",
@@ -41,8 +41,8 @@
     },
     {
       "id": "2",
-      "postOwnerPath":  "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
-      "postPicPath":  "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+      "postOwnerPath":  "https://images.pexels.com/photos/4354418/pexels-photo-4354418.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "postPicPath":  "https://images.pexels.com/photos/4400641/pexels-photo-4400641.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Youssef Mohamed",
       "time": "2h",
       "numOfLikes": "885",
@@ -50,8 +50,8 @@
     },
     {
       "id": "3",
-      "postOwnerPath":  "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
-      "postPicPath":  "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+      "postOwnerPath":  "https://images.pexels.com/photos/3657419/pexels-photo-3657419.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "postPicPath":  "https://images.pexels.com/photos/3651615/pexels-photo-3651615.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Nermeen Moustafa",
       "time": "3d",
       "numOfLikes": "775",
@@ -69,8 +69,8 @@
     },
     {
       "id": "2",
-      "pageBackgroundPic": "https://images.pexels.com/photos/3791007/pexels-photo-3791007.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "pageProfilePic": "https://images.pexels.com/photos/3791007/pexels-photo-3791007.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "pageBackgroundPic": "https://images.pexels.com/photos/4199723/pexels-photo-4199723.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "pageProfilePic": "https://images.pexels.com/photos/4199723/pexels-photo-4199723.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Valeo",
       "field": "Software Company",
       "numOfLikes": "300"
@@ -95,8 +95,8 @@
   "PostsProfiles": [
     {
       "id": "1",
-      "profilePic":  "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
-      "backgroundPic": "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+      "profilePic":  "https://images.pexels.com/photos/5490277/pexels-photo-5490277.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "backgroundPic": "https://images.pexels.com/photos/3000552/pexels-photo-3000552.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Marwan Khaled",
       "work": "PentaValue",
       "study": "Faculty of Computer and Information Science",
@@ -104,12 +104,12 @@
       "maritalStatus": "Married",
       "mutualFriends": "50",
       "friendsPics": [
-         "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
-         "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
-         "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
-         "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
-         "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
-         "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg"
+         "https://images.pexels.com/photos/3131819/pexels-photo-3131819.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+         "https://images.pexels.com/photos/4936237/pexels-photo-4936237.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+         "https://images.pexels.com/photos/5325542/pexels-photo-5325542.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+         "https://images.pexels.com/photos/5464202/pexels-photo-5464202.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+         "https://images.pexels.com/photos/4312101/pexels-photo-4312101.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+         "https://images.pexels.com/photos/4180108/pexels-photo-4180108.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
       ],
       "friendsNames": [
         "Nermeen Moustafa",
@@ -122,8 +122,8 @@
     },
     {
       "id": "2",
-      "profilePic":  "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
-      "backgroundPic": "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+      "profilePic":  "https://images.pexels.com/photos/4354418/pexels-photo-4354418.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "backgroundPic": "https://images.pexels.com/photos/4400641/pexels-photo-4400641.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Youssef Mohamed",
       "work": "Valeo",
       "study": "Faculty of Computer and Information Science",
@@ -131,12 +131,12 @@
       "maritalStatus": "Single",
       "mutualFriends": "60",
       "friendsPics": [
-        "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
-        "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
-        "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
-        "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
-        "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
-        "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg"
+        "https://images.pexels.com/photos/3131819/pexels-photo-3131819.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "https://images.pexels.com/photos/4936237/pexels-photo-4936237.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "https://images.pexels.com/photos/5325542/pexels-photo-5325542.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "https://images.pexels.com/photos/5464202/pexels-photo-5464202.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "https://images.pexels.com/photos/4312101/pexels-photo-4312101.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "https://images.pexels.com/photos/4180108/pexels-photo-4180108.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
      ],
       "friendsNames": [
         "Nermeen Moustafa",
@@ -149,8 +149,8 @@
     },
     {
       "id": "3",
-      "profilePic": "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
-      "backgroundPic":  "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+      "profilePic": "https://images.pexels.com/photos/3657419/pexels-photo-3657419.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "backgroundPic":  "https://images.pexels.com/photos/3651615/pexels-photo-3651615.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Nermeen Moustafa",
       "work": "ITI",
       "study": "Faculty of Arts",
@@ -158,12 +158,12 @@
       "maritalStatus": "single",
       "mutualFriends": "70",
       "friendsPics": [
-        "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
-        "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
-        "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
-        "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
-        "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
-        "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg"
+        "https://images.pexels.com/photos/3131819/pexels-photo-3131819.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "https://images.pexels.com/photos/4936237/pexels-photo-4936237.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "https://images.pexels.com/photos/5325542/pexels-photo-5325542.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "https://images.pexels.com/photos/5464202/pexels-photo-5464202.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "https://images.pexels.com/photos/4312101/pexels-photo-4312101.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "https://images.pexels.com/photos/4180108/pexels-photo-4180108.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
      ],
       "friendsNames": [
         "Nermeen Moustafa",
