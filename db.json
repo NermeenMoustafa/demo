@@ -32,8 +32,8 @@
   "posts": [
     {
       "id": "1",
-      "postOwnerPath": "require('../../imgs/profile2.jpg')",
-      "postPicPath": "require('../../imgs/back13.jpg')",
+      "postOwnerPath":  "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+      "postPicPath":  "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
       "name": "Marwan Khaled",
       "time": "5m",
       "numOfLikes": "995",
@@ -41,8 +41,8 @@
     },
     {
       "id": "2",
-      "postOwnerPath": "require('../../imgs/back13.jpg')",
-      "postPicPath": "require('../../imgs/profile2.jpg')",
+      "postOwnerPath":  "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+      "postPicPath":  "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
       "name": "Youssef Mohamed",
       "time": "2h",
       "numOfLikes": "885",
@@ -50,8 +50,8 @@
     },
     {
       "id": "3",
-      "postOwnerPath": "require('../../imgs/profile2.jpg')",
-      "postPicPath": "require('../../imgs/back13.jpg')",
+      "postOwnerPath":  "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
+      "postPicPath":  "https://www.masegyptdecor.com/decor/public/uploads/thumbs/18945222561553266150.jpg",
       "name": "Nermeen Moustafa",
       "time": "3d",
       "numOfLikes": "775",
